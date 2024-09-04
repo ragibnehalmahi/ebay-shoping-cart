@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "price": 3500,
+        "oldPrice": 4000,
+        "discount": "12% off",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.6WZHCb9rVStvjjH43x9kXQAAAA&pid=Api&P=0&h=220"
+    },
+    {
+        "id": 2,
+        "name": "Smartwatch with Heart Rate Monitor",
+        "price": 7000,
+        "oldPrice": 8500,
+        "discount": "18% off",
+        "image": "https://sp.yimg.com/ib/th?id=OPHS.E1bH5EZr2o15Mg474C474&o=5&pid=21.1&w=174&h=174"
+    },
+    {
+        "id": 3,
+        "name": "4K Ultra HD Smart TV",
+        "price": 45000,
+        "oldPrice": 50000,
+        "discount": "10% off",
+        "image": "https://up.yimg.com/ib/th?id=OIP.mc3TJ3851RSTdni9RbSedgHaHT&pid=Api&rs=1&c=1&qlt=95&w=109&h=107"
+    },
+    {
+        "id": 4,
+        "name": "Gaming Laptop",
+        "price": 95000,
+        "oldPrice": 105000,
+        "discount": "10% off",
+        "image": "https://sp.yimg.com/ib/th?id=OPHS.52X86L0pcbReqQ474C474&o=5&pid=21.1&w=174&h=174"
+    },
+    {
+        "id": 5,
+        "name": "Portable Bluetooth Speaker",
+        "price": 2500,
+        "oldPrice": 3000,
+        "discount": "17% off",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.PfC8YTkuKoceYDivqS5t7wHaHa&pid=Api&P=0&h=220"
+    },
+    {
+        "id": 6,
+        "name": "Noise Cancelling Headphones",
+        "price": 6000,
+        "oldPrice": 7000,
+        "discount": "14% off",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.3dTqUdf4CvmMIDXjaR8pnQHaHa&pid=Api&P=0&h=220"
+    },
+    {
+        "id": 7,
+        "name": "Android Smartphone",
+        "price": 25000,
+        "oldPrice": 28000,
+        "discount": "11% off",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.Wd8kV3JHYWZ2YABM_4EFegHaJU&pid=Api&P=0&h=220"
+    },
+    {
+        "id": 8,
+        "name": "Digital Camera with Lens",
+        "price": 35000,
+        "oldPrice": 40000,
+        "discount": "13% off",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.UNIz6vq10AtlkDdo3G4DRQHaHa&pid=Api&P=0&h=220"
+    },
+    {
+        "id": 9,
+        "name": "Wireless Earbuds",
+        "price": 1800,
+        "oldPrice": 2000,
+        "discount": "10% off",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.MMD7EuGkjnRpDo1sQxE34gAAAA&pid=Api&P=0&h=220"
+    },
+    {
+        "id": 10,
+        "name": "Tablet with Stylus",
+        "price": 30000,
+        "oldPrice": 35000,
+        "discount": "14% off",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.M4UyjFuFRgnjpXbHcVY1pAAAAA&pid=Api&P=0&h=220"
+    }
+]
